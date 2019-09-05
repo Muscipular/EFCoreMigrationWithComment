@@ -2,6 +2,10 @@
 
     <PropertyGroup>
         <TargetFramework>netstandard2.0</TargetFramework>
+        <Authors>Muscipular</Authors>
+        <Description>add efcore migrations add comment to database</Description>
+        <RepositoryUrl>https://github.com/Muscipular/EFCoreMigrationWithComment.SqlServer</RepositoryUrl>
+        <PackageVersion>1.0.3</PackageVersion>
     </PropertyGroup>
 
     <ItemGroup>
