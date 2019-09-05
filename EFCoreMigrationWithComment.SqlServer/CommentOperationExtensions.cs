@@ -17,7 +17,7 @@ namespace Microsoft.EntityFrameworkCore.Migrations
                 Column = column,
             };
             builder.Operations.Add(operation);
-            return new OperationBuilder<CommentOperation>(new CommentOperation());
+            return new OperationBuilder<CommentOperation>(operation);
         }
     }
 }
